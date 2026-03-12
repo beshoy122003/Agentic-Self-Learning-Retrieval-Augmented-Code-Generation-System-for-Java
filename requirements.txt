@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-community
+sentence-transformers
+chromadb
+transformers
+accelerate
+bitsandbytes
+fastapi
+uvicorn
+python-dotenv
+torch
